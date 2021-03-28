@@ -18,7 +18,7 @@ START_DATE = "2019-03-19"
 END_DATE = "2021-03-19"
 INTERVAL ='daily'
 STOCK_NAME ='%5EGSPC'
-FOLDER_LOCATION ="/Users/amitdubey/Documents/GitHub/Data_Science_Project/"
+FOLDER_LOCATION ="/tmp"
 
 #download SPY data from yahoo financials
 """Download the large data file from yahoo for a given period and given asset
